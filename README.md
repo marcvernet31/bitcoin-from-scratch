@@ -76,10 +76,10 @@ As a positive discovery, both pickledb and hashlib used in the project are very 
 #### Persistence of wallets
 Persistence of the blockchain is solved with pickledb, but when the script is closed all the wallet information is erased. The wallets could be stored more or less easily with the same aproach, but I was tired to fight with json formats.
 
-### Wallet - Transaction link
+#### Wallet - Transaction link
 The blockchain allows to input transactions from wallets and store them, but it's not possible to calculate balances. The transaction input from wallets is a temporal solution to have working transactions, but it doesn't work the same way bitcoin transactions work, so it needs to be solved in a future.
 
-### Distributed Proof-Of-Work
+#### Distributed Proof-Of-Work
 It would be cool to be able to run several PoW users to allow competition in block mining.
 
 ## Developer
