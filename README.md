@@ -84,6 +84,6 @@ It would be cool to be able to run several PoW users to allow competition in blo
 
 ## Developer
 
-[![marcvernet31](https://avatars.githubusercontent.com/u/44305244?s=400&u=aeac841bfd0fe52cf15d975b5d9825dbab4c73b8&v=4)](https://github.com/marcvernet31) | 
+[![marcvernet31](https://avatars.githubusercontent.com/u/44305244?s=60&v=4)](https://github.com/marcvernet31) | 
 | --- | 
 | [Marc Vernet](https://github.com/marcvernet31) |
