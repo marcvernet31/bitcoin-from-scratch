@@ -1,4 +1,4 @@
-# toy-bitcoin
+# bitcoin from scratch
 
 
 This project is an attempt to code a DIY clone of Bitcoin with similar functionalities. The goal was to learn firsthand the inner working of cryptocurrency more than having a functional final product (which is absolutely not haha).
